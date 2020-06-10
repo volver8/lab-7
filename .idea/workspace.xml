@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="template" targetName="template" />
+      <config projectName="template" targetName="tests" />
+      <config projectName="template" targetName="localTest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3b81e2-751e-487c-b1a4-e1e28f243272" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/localTest" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/localTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/source.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>master</find>
+      <find>O</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aZs8hUPQG5eqlEL5LfaPl3fHXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.localTest">
+    <configuration name="tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="tests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="localTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="localTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="localTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="template" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.localTest" />
+      <item itemvalue="CMake Application.template" />
+      <item itemvalue="Google Test.tests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3b81e2-751e-487c-b1a4-e1e28f243272" name="Default Changelist" comment="" />
+      <created>1584284006900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584284006900</updated>
+      <workItem from="1584284008447" duration="2441000" />
+      <workItem from="1584286937315" duration="125000" />
+      <workItem from="1584287484562" duration="1333000" />
+      <workItem from="1586954294335" duration="18189000" />
+      <workItem from="1587029616079" duration="950000" />
+      <workItem from="1587457733866" duration="351000" />
+      <workItem from="1587638559594" duration="551000" />
+      <workItem from="1587722927451" duration="1251000" />
+      <workItem from="1587726923914" duration="5726000" />
+      <workItem from="1587739607705" duration="7372000" />
+      <workItem from="1587753916617" duration="909000" />
+      <workItem from="1587799776353" duration="4962000" />
+      <workItem from="1587901557293" duration="698000" />
+      <workItem from="1587902321669" duration="134000" />
+      <workItem from="1587939797265" duration="32000" />
+      <workItem from="1587939895220" duration="491000" />
+      <workItem from="1587941230929" duration="4000" />
+      <workItem from="1587952612133" duration="2531000" />
+      <workItem from="1588247345355" duration="4695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586954519759">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586954519759" />
+    <state x="345" y="24" key="CommitChangelistDialog2" timestamp="1586954497338">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="345" y="24" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1586954497338" />
+    <state x="542" y="274" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587902453607">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="498" y="243" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1586960766703" />
+    <state x="542" y="274" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1587902453607" />
+    <state width="1327" height="205" key="GridCell.Tab.0.bottom" timestamp="1588252846794">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1321" height="135" key="GridCell.Tab.0.bottom/67.27.1367.717@67.27.1367.717" timestamp="1587804324823" />
+    <state width="1321" height="135" key="GridCell.Tab.0.bottom/67.27.1371.721@67.27.1371.721" timestamp="1587800289160" />
+    <state width="1327" height="205" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1588252846794" />
+    <state width="1327" height="205" key="GridCell.Tab.0.center" timestamp="1588252846794">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1321" height="135" key="GridCell.Tab.0.center/67.27.1367.717@67.27.1367.717" timestamp="1587804324822" />
+    <state width="1321" height="135" key="GridCell.Tab.0.center/67.27.1371.721@67.27.1371.721" timestamp="1587800289160" />
+    <state width="1327" height="205" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1588252846794" />
+    <state width="1327" height="205" key="GridCell.Tab.0.left" timestamp="1588252846793">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1321" height="135" key="GridCell.Tab.0.left/67.27.1367.717@67.27.1367.717" timestamp="1587804324822" />
+    <state width="1321" height="135" key="GridCell.Tab.0.left/67.27.1371.721@67.27.1371.721" timestamp="1587800289160" />
+    <state width="1327" height="205" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1588252846793" />
+    <state width="1327" height="205" key="GridCell.Tab.0.right" timestamp="1588252846794">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1321" height="135" key="GridCell.Tab.0.right/67.27.1367.717@67.27.1367.717" timestamp="1587804324823" />
+    <state width="1321" height="135" key="GridCell.Tab.0.right/67.27.1371.721@67.27.1371.721" timestamp="1587800289160" />
+    <state width="1327" height="205" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1588252846794" />
+    <state x="308" y="103" key="SettingsEditor" timestamp="1587457867781">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="253" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586957487870" />
+    <state x="308" y="103" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1587457867781" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587029745405">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1587029745405" />
+    <state x="421" y="242" key="run.anything.popup" timestamp="1586954727313">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="421" y="242" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1586954727313" />
+  </component>
+</project>
